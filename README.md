@@ -23,3 +23,22 @@ The program tracks:
 - Count of Tails
 
 All stats are displayed when the user chooses to stop.
+
+
+## 💡 Example Output
+Do you want to play?
+yes or no: Yes
+Flipping the coin...
+The side that landed is: Head
+
+Do you want to play?
+yes or no: maybe
+Invalid input!! Enter yes or no in small alphabets
+
+Do you want to play?
+yes or no: no
+
+Thanks for playing!
+Total Tosses: 3
+Heads: 2
+Tails: 1
